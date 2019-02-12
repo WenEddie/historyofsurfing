@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://coresites-cdn.factorymedia.com/mpora_new/wp-content/uploads/2017/10/Porthleven-Surf-Sep2017-%C2%A9EdBlomfield-100.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ff06ba;
+}
+
+h1, h2 {
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+  font-family: Ubuntu;
+}
+
+p, h3 {
+  font-size: 20px;
+  font-family: Rubik;
+}
+
+li {
+  float: left;
+  padding: 77px;
+}
+
+img {
+  position: relative;
+}
+
+.surfer1 {
+  position: absolute;
+  bottom: 25px;
+  left: 150px;
+}
+
+.surfer2 {
+  position: absolute;
+  bottom: 25px;
+  left: 490px;
+}
+
+.surfer3 {
+  position: absolute;
+  bottom: 25px;
+  left: 845px;
+}
+.surfer4 {
+  position: absolute;
+  bottom: 25px;
+  left: 1210px;
+}
